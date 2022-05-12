@@ -37,3 +37,39 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
 <p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Node.js</p>
 <p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> React</p>
 <p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Dart</p>
+
+<h2>Projects</h2>
+
+<div align="center">
+  <table bordercolor="#66b2b2">
+      <tr>
+        <td width="50%">
+          <h3 align="center">Thubmnail Maker</h3>
+          <p align="center">
+            <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/yt_thumb.gif?raw=true" alt="Thubmnail Maker"/> </a>
+            <span> 
+              <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
+              <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
+            </span>
+              <p align="center"><strong>HTML, CSS & Javascript</strong>
+                - Content is king, so this thumbnail site helps content creators design the perfect video thumbnail in minutes!
+              </p>
+            </p>
+        </td>               
+        <td width="50%">
+          <h3 align="center">Thubmnail Maker</h3>
+          <p align="center">
+            <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/yt_thumb.gif?raw=true" alt="Thubmnail Maker"/> </a>
+            <span> 
+              <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
+              <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
+            </span>
+              <p align="center"><strong>HTML, CSS & Javascript</strong>
+                - Content is king, so this thumbnail site helps content creators design the perfect video thumbnail in minutes!
+              </p>
+            </p>
+        </td>
+    </tr>
+  </table>
+</div>
+
