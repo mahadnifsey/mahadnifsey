@@ -57,15 +57,15 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
             </p>
         </td>               
         <td width="50%">
-          <h3 align="center">Thubmnail Maker</h3>
+          <h3 align="center">Mystic 8 Ball</h3>
           <p align="center">
-            <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/yt_thumb.gif?raw=true" alt="Thubmnail Maker"/> </a>
+            <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/Mystic_8.gif?raw=true" alt="Thubmnail Maker"/> </a>
             <span> 
               <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
               <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
             </span>
               <p align="center"><strong>HTML, CSS & Javascript</strong>
-                - Content is king, so this thumbnail site helps content creators design the perfect video thumbnail in minutes!
+                - Type your question and the Mystic 8 Ball will reveal all!
               </p>
             </p>
         </td>
