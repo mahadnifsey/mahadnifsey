@@ -65,7 +65,7 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
             </span>
               <p align="center"><strong>HTML, CSS & Javascript</strong>
-                - Type your question and the Mystic 8 Ball will reveal all!
+                - Type your question and the Mystic 8 Ball will reveal the answer!
               </p>
             </p>
         </td>
