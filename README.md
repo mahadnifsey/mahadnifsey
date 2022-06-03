@@ -7,19 +7,19 @@
 
 <h2>Let's Connect!</h2>
 <p align="left">
-  <a href="https://shawncharles.com" target="_blank">
+  <a href="mahadnifsey.netlify.app" target="_blank">
     <img title="Check Out my Website" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/website.png"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mahad-falage-228a8364/" target="_blank">
     <img title="Follow me on LinkedIn" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/Social_icons/linkedin.svg"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://mobile.twitter.com/mahad_nifsey" target="_blank">
     <img title="Follow me on Github"  src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/Social_icons/twitter.svg"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
+  <a href="https://angel.co/u/mahad-nifsey" target="_blank">
     <img title="Follow me on Angel List"  src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/Social_icons/angellist.svg"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://s3.amazonaws.com/attachments.angel.co/6970836-fb5a745dbc4d491c427d6af0e9d6ef34.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220603T183014Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7a5954ceed3f64379ab0922eca6c67ee12f93cc3a188c0fa904ed6556cb4add4" target="_blank">
     <img title="Download my resume" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/resume.png"/>
   </a>
 </p>
