@@ -7,7 +7,7 @@
 
 <h2>Let's Connect!</h2>
 <p align="left">
-  <a href="mahadnifsey.netlify.app" target="_blank">
+  <a href="https://github.com/mahadnifsey" target="_blank">
     <img title="Check Out my Website" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/website.png"/>
   </a>
   <a href="https://www.linkedin.com/in/mahad-falage-228a8364/" target="_blank">
