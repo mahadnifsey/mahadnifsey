@@ -25,7 +25,7 @@
 </p>
 
 <h2>A bit about me.</h2>
-<p>Having >Previously I worked as a Mechanical Design Engineer in the automotive Industry for over 10 years, I am now motivated to progress as a software engineer in this new field.
+<p>Having >Previously I've worked as a Mechanical Design Engineer in the automotive Industry for over 10 years, I am now motivated to progress as a software engineer in this new field.
 The two disciplines often overlapped, which further heightened my curiosity. I have founf various transferrable skills that are complimentary for a career in software development.
 I enjoy problem solving, buiding client relationships, managing projects and products, as well as R&D.</p>
 
