@@ -71,6 +71,8 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               </p>
             </p>
         </td>
+      </tr> 
+      <tr>
         <!-- Project 3 -->              
         <td width="50%">
           <h3 align="center">Quiz App</h3>
