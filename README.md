@@ -43,6 +43,7 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
 <div align="center">
   <table bordercolor="#66b2b2">
       <tr>
+        <!-- Project 1 -->
         <td width="50%">
           <h3 align="center">Thubmnail Maker</h3>
           <p align="center">
@@ -55,7 +56,8 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
                 - Content is king, so this thumbnail site helps content creators design the perfect video thumbnail in minutes!
               </p>
             </p>
-        </td>               
+        </td> 
+        <!-- Project 2 -->              
         <td width="50%">
           <h3 align="center">Mystic 8 Ball</h3>
           <p align="center">
@@ -69,6 +71,20 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               </p>
             </p>
         </td>
+        <!-- Project 3 -->              
+        <td width="50%">
+          <h3 align="center">Quiz App</h3>
+          <p align="center">
+            <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/quiz.gif?raw=true" alt="Thubmnail Maker"/> </a>
+            <span> 
+              <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
+              <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
+            </span>
+              <p align="center"><strong>HTML, CSS & Javascript</strong>
+                - If Anki had a quiz. Meet Ankquiz!
+              </p>
+            </p>
+        </td>        
     </tr>
   </table>
 </div>
