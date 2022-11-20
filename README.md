@@ -1,7 +1,9 @@
 <img align="center" width="100%;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/github_ban.png?raw=true" alt="mahadnifseybanner"/>
 
 <h2>Github Stat</h2>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahadnifsey&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=0AD4F7&fire=8E49F8&currStreakLabel=558EF8&currStreakNum=8E49F8&sideNums=0AD4F7&sideLabels=558EF8&dates=727272&background=DD272700">
+</div>
 
 <h2>Let's Connect!!!</h2>
 <p align="left">
