@@ -1,4 +1,4 @@
-<img align="center" width="100%;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/github_ban.png?raw=true" alt="mahadnifseybanner"/>
+<img align="center" width="100%;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/github_ban2.png?raw=true" alt="mahadnifseybanner"/>
 
 <h2>Github Stat</h2>
 <div align="center">
