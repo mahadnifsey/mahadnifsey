@@ -1,6 +1,6 @@
 <img align="center" width="100%;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/github_ban2.png?raw=true" alt="mahadnifseybanner"/>
 
-<h2>Github Stat</h2>
+<h2>Github Stats</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mahadnifsey&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=0AD4F7&fire=8E49F8&currStreakLabel=558EF8&currStreakNum=8E49F8&sideNums=0AD4F7&sideLabels=558EF8&dates=727272&background=DD272700">
 </div>
@@ -45,6 +45,20 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
       <tr>
         <!-- Project 1 -->
         <td width="50%">
+          <h3 align="center">Motivational Quote Wall</h3>
+          <p align="center">
+            <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/mot_quo_wall.gif?raw=true" alt="Motivational Quote Wall"/> </a>
+            <span> 
+              <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
+              <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
+            </span>
+              <p align="center"><strong>HTML, CSS, Javascript, MongoDB, Express, Node.js</strong>
+                - Find inspiration with the Motivational Quote Wall - your source for powerful quotes. Showcasing CRUD Operations.
+              </p>
+            </p>
+        </td> 
+        <!-- Project 2 -->
+        <td width="50%">
           <h3 align="center">Thubmnail Maker</h3>
           <p align="center">
             <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/yt_thumb.gif?raw=true" alt="Thubmnail Maker"/> </a>
@@ -57,7 +71,9 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               </p>
             </p>
         </td> 
-        <!-- Project 2 -->              
+      </tr> 
+      <tr>
+        <!-- Project 3 -->              
         <td width="50%">
           <h3 align="center">Mystic 8 Ball</h3>
           <p align="center">
@@ -71,9 +87,7 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               </p>
             </p>
         </td>
-      </tr> 
-      <tr>
-        <!-- Project 3 -->              
+        <!-- Project 4 -->              
         <td width="50%">
           <h3 align="center">Quiz App</h3>
           <p align="center">
