@@ -53,7 +53,7 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
             </span>
               <p align="center"><strong>HTML, CSS, Javascript, MongoDB, Express, Node.js</strong>
-                - Find inspiration with the Motivational Quote Wall - your source for powerful quotes. Showcasing CRUD Operations.
+                - Find inspiration with the Motivational Quote Wall - your source for powerful quotes.
               </p>
             </p>
         </td> 
