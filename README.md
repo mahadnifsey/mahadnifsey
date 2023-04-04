@@ -32,11 +32,11 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
 <h4>A few technologies I’ve been working with recently:</h4>
 
 <p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Javascript</p>
-<p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Rest Api</p>
-<p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Git</p>
+<p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Python</p>
 <p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Node.js</p>
 <p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> React</p>
-<p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Dart</p>
+<p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Next.js</p>
+<p><img width="15px;" src="https://github.com/mahadnifsey/readme-assets/blob/main/profile_images/other_icons/arrow.png"/> Docker</p>
 
 <h2>Projects</h2>
 
@@ -97,7 +97,7 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
             </span>
               <p align="center"><strong>HTML, CSS & Javascript</strong>
-                - If Anki had a quiz. Meet Ankquiz!
+                - If Anki had a quiz. This quiz app, will ensure that active recall is successful, and your knowledge is tested!
               </p>
             </p>
         </td>        
