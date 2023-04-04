@@ -45,6 +45,20 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
       <tr>
         <!-- Project 1 -->
         <td width="50%">
+          <h3 align="center">ChatterCast</h3>
+          <p align="center">
+            <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/chattercast.gif?raw=true" alt="Motivational Quote Wall"/> </a>
+            <span> 
+              <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
+              <a href="https://github.com/mahadnifsey/chattercast" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
+            </span>
+              <p align="center"><strong>HTML, CSS, Javascript, MongoDB, Express, Node.js, Bootstrap</strong>
+                - Join the converation! - A worthy challenger to Twitter. Showcasing CRUD, MVC Structure and CI/CD.
+              </p>
+            </p>
+        </td> 
+        <!-- Project 2 -->
+        <td width="50%">
           <h3 align="center">Motivational Quote Wall</h3>
           <p align="center">
             <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/mot_quo_wall.gif?raw=true" alt="Motivational Quote Wall"/> </a>
@@ -53,11 +67,13 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
             </span>
               <p align="center"><strong>HTML, CSS, Javascript, MongoDB, Express, Node.js</strong>
-                - Find inspiration with the Motivational Quote Wall - your source for powerful quotes.
+                - Find inspiration with the Motivational Quote Wall - your source for powerful quotes. Showcasing CRUD Operations.
               </p>
             </p>
         </td> 
-        <!-- Project 2 -->
+      </tr> 
+      <tr>
+        <!-- Project 3 -->
         <td width="50%">
           <h3 align="center">Thubmnail Maker</h3>
           <p align="center">
@@ -71,22 +87,6 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
               </p>
             </p>
         </td> 
-      </tr> 
-      <tr>
-        <!-- Project 3 -->              
-        <td width="50%">
-          <h3 align="center">Mystic 8 Ball</h3>
-          <p align="center">
-            <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/Mystic_8.gif?raw=true" alt="Thubmnail Maker"/> </a>
-            <span> 
-              <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
-              <a href="https://github.com/mahadnifsey/thumbnail_maker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
-            </span>
-              <p align="center"><strong>HTML, CSS & Javascript</strong>
-                - Type your question and the Mystic 8 Ball will reveal the answer!
-              </p>
-            </p>
-        </td>
         <!-- Project 4 -->              
         <td width="50%">
           <h3 align="center">Quiz App</h3>
