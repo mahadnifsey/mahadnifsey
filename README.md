@@ -47,7 +47,7 @@ I enjoy problem solving, buiding client relationships, managing projects and pro
         <td width="50%">
           <h3 align="center">ChatterCast</h3>
           <p align="center">
-            <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/chattercast.gif?raw=true" alt="Motivational Quote Wall"/> </a>
+            <a href="https://github.com/mahadnifsey/motivational-quote-wall" target="_blank" rel="noreferrer"> <img src="https://github.com/mahadnifsey/readme-assets/blob/main/project_images/chatterCast.gif?raw=true" alt="Motivational Quote Wall"/> </a>
             <span> 
               <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live%20Site-1ADBFA?style=flat-square" alt="Live Site" height="25px"></a>
               <a href="https://github.com/mahadnifsey/chattercast" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-efefef?style=flat-square&logo=github&logoColor=1ADBFA" alt="Github Repo" height ="25px"></a> 
