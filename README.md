@@ -25,9 +25,11 @@
 </p>
 
 <h2>A bit about me.</h2>
-<p>Having >Previously I've worked as a Mechanical Design Engineer in the automotive Industry for over 10 years, I am now motivated to progress as a software engineer in this new field.
-The two disciplines often overlapped, which further heightened my curiosity. I have founf various transferrable skills that are complimentary for a career in software development.
-I enjoy problem solving, buiding client relationships, managing projects and products, as well as R&D.</p>
+<p>Hey there! I'm Mahad, a former Mechanical Design Engineer who discovered a passion for software engineering. Drawing from over a decade of experience in the automotive and energy industries, I offer a unique perspective that drives my approach to tech.
+
+My passion for problem-solving, building relationships with clients, managing projects and products, as well as conducting R&D, has allowed me to be a great contributor to the tech industry. I am excited to apply my skills and knowledge to create innovative solutions and push boundaries in this rapidly evolving field.
+
+Thanks for visiting my Github, I look forward to sharing my journey and showcasing my work. Let's connect and explore how we can collaborate even!</p>
 
 <h4>A few technologies I’ve been working with recently:</h4>
 
